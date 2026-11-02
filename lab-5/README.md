@@ -86,7 +86,7 @@
 
 
 
-<img src="screenshots/04_logs_loaded.png" alt="Загруженные логи" width="800">
+<img src="screenshots/04_logs_loaded.png" alt="Загруженные логи" width="400">
 
 
 
@@ -256,7 +256,7 @@ Elasticsearch нашёл такие записи:
 
 
 
-<img src="screenshots/11_rollover_result.png" alt="Результат rollover" width="800">
+<img src="screenshots/11_rollover_result.png" alt="Результат rollover" width="400">
 
 
 
