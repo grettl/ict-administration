@@ -1,0 +1,21 @@
+# Системные файлы
+.DS_Store
+Thumbs.db
+*.swp
+
+# Временные файлы
+*.log
+*.tmp
+
+# Локальные настройки и секреты
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Архивы
+*.tar.gz
+
+# Данные Docker
+**/data/
