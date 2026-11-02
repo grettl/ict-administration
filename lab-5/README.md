@@ -34,7 +34,7 @@
 
 
 
-![Запущенные контейнеры](screenshots/01_containers.png)
+<img src="screenshots/01_containers.png" alt="Запущенные контейнеры" width="800">
 
 
 
@@ -44,7 +44,7 @@
 
 
 
-![Состояние кластера](screenshots/02_cluster_health.png)
+<img src="screenshots/02_cluster_health.png" alt="Состояние кластера" width="800">
 
 
 
@@ -72,7 +72,7 @@
 
 
 
-![Создание индекса](screenshots/03_index_creation.png)
+<img src="screenshots/03_index_creation.png" alt="Создание индекса" width="800">
 
 
 
@@ -86,7 +86,7 @@
 
 
 
-![Загруженные логи](screenshots/04_logs_loaded.png)
+<img src="screenshots/04_logs_loaded.png" alt="Загруженные логи" width="800">
 
 
 
@@ -106,7 +106,7 @@ Elasticsearch нашёл такие записи:
 
 
 
-![Полнотекстовый поиск](screenshots/05_search_message.png)
+<img src="screenshots/05_search_message.png" alt="Полнотекстовый поиск" width="800">
 
 
 
@@ -122,7 +122,7 @@ Elasticsearch нашёл такие записи:
 
 
 
-![Фильтрация логов](screenshots/06_filter_logs.png)
+<img src="screenshots/06_filter_logs.png" alt="Фильтрация логов" width="800">
 
 
 
@@ -142,7 +142,7 @@ Elasticsearch нашёл такие записи:
 
 
 
-![Агрегация по уровню логов](screenshots/07_aggregation.png)
+<img src="screenshots/07_aggregation.png" alt="Агрегация по уровню логов" width="800">
 
 
 
@@ -176,7 +176,7 @@ Elasticsearch нашёл такие записи:
 
 
 
-![Логи в Kibana](screenshots/08_kibana_discover.png)
+<img src="screenshots/08_kibana_discover.png" alt="Логи в Kibana" width="800">
 
 
 
@@ -186,7 +186,7 @@ Elasticsearch нашёл такие записи:
 
 Получилось три столбца: INFO, WARN и ERROR.
 
-![Диаграмма Kibana](screenshots/09_kibana_chart.png)
+<img src="screenshots/09_kibana_chart.png" alt="Диаграмма Kibana" width="800">
 
 
 
@@ -222,7 +222,7 @@ Elasticsearch нашёл такие записи:
 
 
 
-![Настройка ILM](screenshots/10_ilm_policy.png)
+<img src="screenshots/10_ilm_policy.png" alt="Настройка ILM" width="800">
 
 
 
@@ -256,7 +256,7 @@ Elasticsearch нашёл такие записи:
 
 
 
-![Результат rollover](screenshots/11_rollover_result.png)
+<img src="screenshots/11_rollover_result.png" alt="Результат rollover" width="800">
 
 
 
@@ -268,7 +268,7 @@ Elasticsearch нашёл такие записи:
 
 
 
-![Список индексов после rollover](screenshots/12_indices_after_rollover.png)
+<img src="screenshots/12_indices_after_rollover.png" alt="Список индексов после rollover" width="800">
 
 
 
@@ -308,7 +308,7 @@ Elasticsearch нашёл такие записи:
 
 
 
-![Проверка Prometheus](screenshots/13_prometheus_targets.png)
+<img src="screenshots/13_prometheus_targets.png" alt="Проверка Prometheus" width="800">
 
 
 
@@ -344,7 +344,7 @@ Elasticsearch нашёл такие записи:
 
 
 
-![Состояние кластера в Grafana](screenshots/14_grafana_cluster_health.png)
+<img src="screenshots/14_grafana_cluster_health.png" alt="Состояние кластера в Grafana" width="800">
 
 
 
@@ -364,7 +364,7 @@ Elasticsearch постоянно сохраняет данные, поэтому
 
 
 
-![Свободное место на диске](screenshots/15_grafana_disk.png)
+<img src="screenshots/15_grafana_disk.png" alt="Свободное место на диске" width="800">
 
 
 
@@ -384,7 +384,7 @@ Elasticsearch работает на Java и использует память JV
 
 
 
-![Использование памяти JVM](screenshots/16_grafana_jvm.png)
+<img src="screenshots/16_grafana_jvm.png" alt="Использование памяти JVM" width="800">
 
 
 
