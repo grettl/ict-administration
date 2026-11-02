@@ -142,7 +142,7 @@ Elasticsearch нашёл такие записи:
 
 
 
-<img src="screenshots/07_aggregation.png" alt="Агрегация по уровню логов" width="800">
+<img src="screenshots/07_aggregation.png" alt="Агрегация по уровню логов" width="400">
 
 
 
