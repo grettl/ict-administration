@@ -69,9 +69,9 @@
 
 В GitLab создали проект `lab6-ci` и добавили раннер `lab6-static-docker` с тегом `docker`. Сразу после создания GitLab показал `Never contacted`. Это значит, что раннер уже добавили в проект, но он ещё ни разу не подключался.
 
-<img src="screenshots/17.png" alt="Проект lab6-ci" width="800">
+<img src="screenshots/17.png" alt="Проект lab6-ci" width="550">
 
-<img src="screenshots/18.png" alt="Форма создания проектного раннера" width="720">
+<img src="screenshots/18.png" alt="Форма создания проектного раннера" width="500">
 
 <img src="screenshots/19.png" alt="Страница регистрации статического раннера" width="740">
 
@@ -110,7 +110,7 @@
 
 <img src="screenshots/27.png" alt="Успешный пайплайн № 5" width="680">
 
-<img src="screenshots/28.png" alt="Репозиторий lab6-ci в Container Registry" width="620">
+<img src="screenshots/28.png" alt="Репозиторий lab6-ci в Container Registry" width="380">
 
 <img src="screenshots/29.png" alt="Тег опубликованного образа и его размер" width="690">
 
@@ -131,14 +131,14 @@
 
 <img src="screenshots/32.png" alt="Успешная проверка Kubernetes Runner" width="740">
 
-<img src="screenshots/33.png" alt="Два задания Kubernetes выполняются одновременно" width="490">
+<img src="screenshots/33.png" alt="Два задания Kubernetes выполняются одновременно" width="290">
 
 <img src="screenshots/33_parallel_pods.png" alt="Временные поды параллельных заданий" width="800">
 
 
 В итоге в пайплайне № 7 успешно прошли все пять заданий. В стадии тестирования прошли проверка Docker-раннера, проверка Kubernetes-раннера и две параллельные проверки. Следом выполнилась сборка образа.
 
-<img src="screenshots/34.png" alt="Пайплайн № 7 со всеми пятью успешными заданиями" width="680">
+<img src="screenshots/34.png" alt="Пайплайн № 7 со всеми пятью успешными заданиями" width="450">
 
 
 ### Настройка мониторинга
